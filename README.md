@@ -14,4 +14,4 @@ Resources for breaking into the Cloud-native space
 ### More advanced
 
 - If you've completed the three resources listed above you can dive into the more complicated stuff such as "Kubernetes the Hard way". This project will teach you the basics of building a kubernetes cluster. If you're able to finish this, you'll have a great foundation for starting on the team.
-- [Kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+  - [Kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
